@@ -1,7 +1,199 @@
 
-
+<!-- =========================
+     ULTRA MODERN GITHUB README
+     ========================= -->
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,25:1e293b,50:2563eb,75:7c3aed,100:9333ea&text=SUNIL%20JANGIR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20UI/UX%20Engineer&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=850&height=120&lines=Crafting+Modern+Web+Experiences;Building+Real-World+Applications;React+%7C+Next.js+%7C+TailwindCSS;Always+Learning+New+Technologies" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sunil-9821&style=for-the-badge&color=7c3aed" />
+<img src="https://img.shields.io/github/followers/sunil-9821?style=for-the-badge&color=2563eb&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/sunil-9821?style=for-the-badge&color=f59e0b&labelColor=111827" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```javascript
+const sunil = {
+  role: "Frontend Developer",
+  specialization: [
+    "React.js",
+    "Next.js",
+    "TailwindCSS",
+    "JavaScript",
+    "TypeScript",
+  ],
+
+  currentFocus: [
+    "Real-Time Applications",
+    "Modern UI/UX",
+    "Performance Optimization",
+    "Scalable Frontend Architecture",
+  ],
+
+  funFact:
+    "I turn coffee ☕ into scalable applications 🚀",
+};
+```
+
+<br/>
+
+- 🔭 Currently building **real-world modern applications**
+- 🌱 Learning **advanced backend & scalable systems**
+- ⚡ Creating **interactive UI/UX experiences**
+- 🎯 Goal: Become a **Full Stack Product Engineer**
+- 💬 Ask me about **React, Tailwind, Next.js & UI Design**
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sunil808191@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sunil9821">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sunil-9821">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚒️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,firebase,figma,git,github,postman,vercel,vite,astro,nginx,powershell,npm&perline=7" />
+
+</div>
+
+---
+
+# 🚀 Modern Tools & Workflow
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/API-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sunil-9821&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=2563eb"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-9821&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=2563eb&currStreakLabel=ffffff"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=sunil-9821&bg_color=0D1117&color=ffffff&line=7c3aed&point=2563eb&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js%20Advanced-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Architecture-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scalable%20Apps-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sunil-9821&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# ⚡ Fun Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+# ✨ Quote Of The Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎵 Spotify Playing
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l6vlq3u3l6example&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
+
+</div>
+
+---
+
+# 💻 Visitor Counter
+
+<div align="center">
+
+<img src="https://count.getloli.com/get/@sunil-9821?theme=rule34" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Building Clean UI, Powerful Logic & Real Products"
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9333ea,50:2563eb,100:0f172a"/>
+
+</div>
+
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sunil+Jangir;Frontend+Developer;Building+Real-World+Applications" alt="Typing SVG" />
 
   <p align="center">
@@ -9,7 +201,7 @@
   </p>
 
   <p align="center">
-    <!-- <a href="https://sunil-jangid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> -->
+    <a href="https://sunil-jangid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="mailto:sunil808191@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://linkedin.com/in/sunil9821"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
@@ -43,7 +235,7 @@
   <code>LEARNING • BUILDING • UPGRADING</code>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=yashcx84&label=Profile%20views&color=764ba2&style=flat-square" alt="Views" />
-</p>
+</p> -->
 
 
 <!-- <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
