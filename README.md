@@ -1,4 +1,52 @@
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
+
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sunil+Jangir;Frontend+Developer;Building+Real-World+Applications" alt="Typing SVG" />
+
+  <p align="center">
+    <code>APPLICATION AND WEB DEVELOPER | REACT JS SPECIALIST | UI/UX ENTHUSIAST</code>
+  </p>
+
+  <p align="center">
+    <!-- <a href="https://sunil-jangid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> -->
+    <a href="mailto:sunil808191@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/sunil9821"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&color=FFFFFF&center=true&vCenter=true&width=400&lines=TECH+STACK+I+USE" />
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,astro,react,nodejs,mongodb,nginx,npm,tailwind,bootstrap,figma,git,github,postman,vercel,powershell,vite&perline=6" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&color=FFFFFF&center=true&vCenter=true&width=400&lines=ACTIVITY+%26+STATS" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashcx84&theme=tokyonight&hide_border=true&background=0D1117" width="50%" />
+</div>
+
+---
+
+<p align="center">
+  <code>LEARNING • BUILDING • UPGRADING</code>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=yashcx84&label=Profile%20views&color=764ba2&style=flat-square" alt="Views" />
+</p>
+
+
+<!-- <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
 
 </h2>
 
@@ -9,9 +57,9 @@
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer ...</li>
-  <!-- <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li> -->
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
-  <!-- <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://sunildev.site/" target="_blank">Portfolio</a> to know more about me ...</li> -->
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://sunildev.site/" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
 
 <br><br><br><br><a href="https://wakatime.com/@235697b3-0e7f-4ee0-94ee-e9aec63ba898">
@@ -28,11 +76,11 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/sunil9821/" target="_blank"><img src="https://github.com/sunil-9821/sunil-9821/assets/86096184/2282dd88-2225-45aa-992a-bec8fde0e788" alt="Linkdin" height="50" title="linkdin"></a>
   <a href="mailto:sunil808191@gmail.com" target="_blank"><img src="https://github.com/sunil-9821/sunil-9821/assets/86096184/cbe4890a-aac0-465c-ba24-33458e9f8881" alt="Gmail" height="50" title="Gmail"></a>
-  <!-- <a href="https://twitter.com/sunil-9821" target="_blank"><img src="https://github.com/sunil-9821/sunil-9821/assets/86096184/80ca6f4f-01a3-40db-a50f-77bde71f13ad" alt="Twitter" height="50" title="Twitter"></a> -->
- <!-- <a href="https://www.instagram.com/pexel_ui/" target="_blank"><img src="https://github.com/sunil-9821/sunil-9821/assets/86096184/1de75b52-f87e-4394-975f-755b198d3536" alt="Instagram" height="50" title="Instagram"></a> -->
+  <a href="https://twitter.com/sunil-9821" target="_blank"><img src="https://github.com/sunil-9821/sunil-9821/assets/86096184/80ca6f4f-01a3-40db-a50f-77bde71f13ad" alt="Twitter" height="50" title="Twitter"></a>
+ <a href="https://www.instagram.com/pexel_ui/" target="_blank"><img src="https://github.com/sunil-9821/sunil-9821/assets/86096184/1de75b52-f87e-4394-975f-755b198d3536" alt="Instagram" height="50" title="Instagram"></a>
   <a href="https://uiverse.io/profile/sunil-9821" target="_blank"><img src="https://github.com/sunil-9821/sunil-9821/assets/86096184/b07ceafc-8cc1-4e4d-a5b4-e1846c40f0c2" alt="uiverse" height="50" title="Uiverse"></a>
  <a href="https://codepen.io/suniljangir" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/85960e4e-546e-4b2e-a2f5-0b7ae0a2e15d" alt="Codepen" height="50" title="Codepen"></a>
- <!-- <a href="https://sunildev.site/" target="_blank"><img src="https://github.com/sunil-9821/sunil-9821/assets/86096184/3a2a0e30-8369-4f1a-9788-95fa30ac2f36" alt="Portfolio" height="50" title="Portfolio"></a> -->
+ <a href="https://sunildev.site/" target="_blank"><img src="https://github.com/sunil-9821/sunil-9821/assets/86096184/3a2a0e30-8369-4f1a-9788-95fa30ac2f36" alt="Portfolio" height="50" title="Portfolio"></a>
 </p>
 <br>
 
@@ -71,50 +119,5 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api?username=sunil-9821&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=sunil-9821&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
-
-
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sunil+Jangir;Frontend+Developer;Building+Real-World+Applications" alt="Typing SVG" />
-
-  <p align="center">
-    <code>APPLICATION AND WEB DEVELOPER | REACT JS SPECIALIST | UI/UX ENTHUSIAST</code>
-  </p>
-
-  <p align="center">
-    <a href="https://sunil-jangid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="mailto:sunil808191@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/sunil9821"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&color=FFFFFF&center=true&vCenter=true&width=400&lines=TECH+STACK+I+USE" />
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,astro,react,nodejs,mongodb,nginx,npm,tailwind,bootstrap,figma,git,github,postman,vercel,powershell,vite&perline=6" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&color=FFFFFF&center=true&vCenter=true&width=400&lines=ACTIVITY+%26+STATS" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashcx84&theme=tokyonight&hide_border=true&background=0D1117" width="50%" />
-</div>
-
----
-
-<p align="center">
-  <code>LEARNING • BUILDING • UPGRADING</code>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=yashcx84&label=Profile%20views&color=764ba2&style=flat-square" alt="Views" />
-</p> -->
