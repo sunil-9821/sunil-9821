@@ -1,38 +1,51 @@
-
-<!-- =========================
-     ULTRA MODERN GITHUB README
-     ========================= -->
+<!-- =======================================================
+     🔥 ULTRA PREMIUM ANIMATED GITHUB README — SUNIL JANGIR
+     ======================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,25:1e293b,50:2563eb,75:7c3aed,100:9333ea&text=SUNIL%20JANGIR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20UI/UX%20Engineer&descAlignY=60"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=850&height=120&lines=Crafting+Modern+Web+Experiences;Building+Real-World+Applications;React+%7C+Next.js+%7C+TailwindCSS;Always+Learning+New+Technologies" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,25:1e293b,50:2563eb,75:7c3aed,100:9333ea&text=SUNIL%20JANGIR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20UI/UX%20Engineer&descAlignY=60"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sunil-9821&style=for-the-badge&color=7c3aed" />
-<img src="https://img.shields.io/github/followers/sunil-9821?style=for-the-badge&color=2563eb&labelColor=111827" />
-<img src="https://img.shields.io/github/stars/sunil-9821?style=for-the-badge&color=f59e0b&labelColor=111827" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Crafting+Modern+Web+Experiences;Building+Real-World+Applications;React+%7C+Next.js+%7C+TailwindCSS;Creating+Interactive+UI%2FUX;Always+Learning+New+Technologies" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sunil-9821&style=for-the-badge&color=7c3aed"/>
+
+<img src="https://img.shields.io/github/followers/sunil-9821?style=for-the-badge&color=2563eb&labelColor=111827"/>
+
+<img src="https://img.shields.io/github/stars/sunil-9821?style=for-the-badge&color=f59e0b&labelColor=111827"/>
 
 </div>
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 # 💫 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ```javascript
 const sunil = {
   role: "Frontend Developer",
-  specialization: [
-    "React.js",
-    "Next.js",
-    "TailwindCSS",
+
+  code: [
     "JavaScript",
     "TypeScript",
+    "React.js",
+    "Next.js",
+    "Node.js",
   ],
+
+  technologies: {
+    frontend: ["React", "Next.js", "TailwindCSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB", "Firebase"],
+    deployment: ["Vercel", "Netlify", "Nginx"],
+  },
 
   currentFocus: [
     "Real-Time Applications",
@@ -52,9 +65,11 @@ const sunil = {
 - 🌱 Learning **advanced backend & scalable systems**
 - ⚡ Creating **interactive UI/UX experiences**
 - 🎯 Goal: Become a **Full Stack Product Engineer**
-- 💬 Ask me about **React, Tailwind, Next.js & UI Design**
+- 💬 Ask me about **React, TailwindCSS, Next.js & UI Design**
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🌐 Connect With Me
 
@@ -76,37 +91,13 @@ const sunil = {
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 # ⚒️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,firebase,figma,git,github,postman,vercel,vite,astro,nginx,powershell,npm&perline=7" />
-
-</div>
-
----
-
-# 🚀 Modern Tools & Workflow
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/API-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel"/>
-<img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sunil-9821&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=2563eb"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-9821&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=2563eb&currStreakLabel=ffffff"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,firebase,figma,git,github,postman,vercel,vite,astro,nginx,powershell,npm&theme=dark&perline=7"/>
 
 </div>
 
@@ -114,24 +105,79 @@ const sunil = {
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=sunil-9821&bg_color=0D1117&color=ffffff&line=7c3aed&point=2563eb&hide_border=true"/>
+<img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/Style-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 </div>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+# 🚀 Modern Tools & Workflow
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/API-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel"/>
+
+<img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sunil-9821&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-9821&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=ffffff"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sunil-9821&bg_color=0d1117&color=ffffff&line=8b5cf6&point=06b6d4&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🧠 Currently Learning
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Next.js%20Advanced-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/System%20Design-2563eb?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Backend%20Architecture-7c3aed?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Scalable%20Apps-111827?style=for-the-badge"/>
 
 </div>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🏆 GitHub Trophies
 
@@ -143,15 +189,19 @@ const sunil = {
 
 ---
 
-# ⚡ Fun Animation
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+# ⚡ Contribution Snake Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # ✨ Quote Of The Day
 
@@ -163,21 +213,25 @@ const sunil = {
 
 ---
 
-# 🎵 Spotify Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l6vlq3u3l6example&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
-
-</div>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 💻 Visitor Counter
 
 <div align="center">
 
-<img src="https://count.getloli.com/get/@sunil-9821?theme=rule34" />
+<img src="https://count.getloli.com/get/@sunil-9821?theme=rule34"/>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+# 🎮 Fun Animated Section
+
+<div align="center">
+
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN2bWJjdzI0bjZzM2xjaTQ0YW5mZXh1MXV3cXQ1eTZqdzNidGg2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YtZOb9EUABnuqA/giphy.gif"/>
 
 </div>
 
@@ -189,7 +243,7 @@ const sunil = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9333ea,50:2563eb,100:0f172a"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,50:7c3aed,100:2563eb"/>
 
 </div>
 
