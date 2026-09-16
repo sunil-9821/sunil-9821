@@ -43,23 +43,6 @@ I'm a **Frontend Developer** based in Rajasthan, India, focused on building mode
 </table>
 
 <table>
-<thead><tr><th>Top Languages</th><th>Trophies</th></tr></thead>
-<tbody>
-<tr>
-<td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-9821&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c4b5fd"/></td>
-<td><img width="100%" src="https://github-profile-trophy.vercel.app/?username=sunil-9821&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=3&row=2"/></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead><tr><th>Contribution Activity</th></tr></thead>
-<tbody>
-<tr><td><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sunil-9821&bg_color=0D1117&color=A78BFA&line=38BDF8&point=ffffff&area=true&hide_border=true&radius=8"/></td></tr>
-</tbody>
-</table>
-
-<table>
 <thead><tr><th>Contribution Snake</th></tr></thead>
 <tbody>
 <tr><td>
